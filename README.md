@@ -277,9 +277,24 @@ int main() {
     return 0;
 }
 ```
-
 ## OUTPUT
+
 ![Screenshot 2025-04-27 153109](https://github.com/user-attachments/assets/02bb9184-778e-4124-9795-6da4a7279e93)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## RESULT
